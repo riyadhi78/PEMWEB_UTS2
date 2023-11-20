@@ -1,0 +1,28 @@
+NAMA: Riyadhi Ahmad Fachrudiansyah
+NIM: 22416255201222
+KELAS: IF22E
+
+JAWABAN SOAL UTS PEMPROGRAMAN WEB
+
+1.Secara sederhana, sebuah "framework" dalam pengembangan aplikasi bisa diibaratkan sebagai kerangka kerja atau struktur dasar yang membantu pembuat aplikasi untuk bekerja lebih efisien. Ini seperti fondasi atau rencana dasar yang telah disusun sebelumnya agar pengembang tidak perlu memulai semuanya dari awal setiap kali membuat aplikasi baru.
+
+Anda bisa membayangkan framework seperti bingkai kosong tempat Anda dapat membangun sesuatu. Dalam hal ini, framework menyediakan aturan, alat, dan struktur kerja yang telah ditentukan sebelumnya untuk membantu Anda membuat aplikasi tanpa harus menulis semua kode dari awal.
+
+Framework memiliki beberapa manfaat, termasuk:
+
+-.Efisiensi Pengembangan: Karena banyak hal yang sudah ditentukan, pengembang dapat fokus pada fitur khusus yang ingin mereka tambahkan daripada harus menangani detail teknis dasar.
+
+-.Konsistensi: Framework membantu memastikan bahwa seluruh aplikasi mengikuti aturan dan standar tertentu, sehingga hasilnya lebih konsisten dan dapat dipahami.
+
+-.Pemeliharaan yang Mudah: Jika ada pembaruan atau perubahan yang perlu dilakukan, ini bisa dilakukan dengan lebih mudah karena struktur kerja telah ditentukan sebelumnya.
+
+-.Keamanan: Beberapa framework menyertakan praktik keamanan bawaan untuk membantu melindungi aplikasi dari ancaman keamanan.
+
+-.Kemudahan Kolaborasi: Dengan banyak pengembang menggunakan framework yang sama, lebih mudah untuk berkolaborasi dan berbagi pengetahuan.
+
+Jadi, secara umum, framework membantu memudahkan dan mempercepat proses pengembangan aplikasi dengan menyediakan struktur dan alat yang telah disusun sebelumnya.
+
+2. 1.tema proyek yang di garap pencatatan dan pemantauan stunting 
+   2.RIYADHI AHMAD F ( MEMBUAT STARUML )
+     FADLAN          ( MEMBUAT DATABASE )
+     BRIAN ABI       ( MEBUAT CODINGAN  )
